@@ -1,10 +1,10 @@
 import { InfoPostContainer, LinksContainer, Info } from './styles'
 
-import iconComments from './../../../../assets/icon_comments.svg'
-import iconGithub from './../../../../assets/icon_github.svg'
-import iconCalendary from './../../../../assets/icon_calendary.svg'
-import iconBack from './../../../../assets/Icon_back.svg'
-import iconSeta from './../../../../assets/icon_seta.svg'
+import iconComments from './../../../../assets/icon-comments.svg'
+import iconGithub from './../../../../assets/icon-github.svg'
+import iconCalendary from './../../../../assets/icon-calendary.svg'
+import iconBack from './../../../../assets/Icon-back.svg'
+import iconSeta from './../../../../assets/icon-seta.svg'
 
 import { dateFormatter } from '../../../../utils/formatter'
 
