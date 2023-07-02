@@ -7,10 +7,10 @@ import {
   Bio,
 } from './styles'
 
-import iconFollowrers from './../../../../assets/icon-followers.svg'
-import iconGithub from './../../../../assets/icon-github.svg'
-import iconOffice from './../../../../assets/icon-office.svg'
-import iconSeta from './../../../../assets/icon-seta.svg'
+import iconFollowrers from './../../../../assets/icon_followers.svg'
+import iconGithub from './../../../../assets/icon_github.svg'
+import iconOffice from './../../../../assets/icon_office.svg'
+import iconSeta from './../../../../assets/icon_seta.svg'
 
 interface IUser {
   login: string
